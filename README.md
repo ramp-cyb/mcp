@@ -2,7 +2,8 @@
 
 This VS Code extension provides Model Context Protocol (MCP) tools for interacting with local SQL Server databases. It enables you to execute database operations directly from VS Code using natural language commands.
 
-[![Demo Video of working MCP] (https://github.com/user-attachments/assets/56ad5a7d-f6a7-4c1d-835e-0f9bf00f99e6)](https://www.youtube.com/watch?v=R4FGtwKSPcA)
+[![Watch the video](https://github.com/user-attachments/assets/56ad5a7d-f6a7-4c1d-835e-0f9bf00f99e6)](https://www.youtube.com/watch?v=R4FGtwKSPcA)
+
 
 ## Features
 
